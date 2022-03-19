@@ -1,0 +1,1 @@
+temp=bin(5).replace("0b", "")
